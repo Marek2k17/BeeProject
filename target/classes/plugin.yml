@@ -1,0 +1,13 @@
+name: BeeProject
+main: saf.beeproject.Main
+version: 0.1
+api-version: 1.13
+description: Application Project.
+author: Jesus_C
+website: www.saltyasfuck.de
+prefix: Bee
+
+commands:
+   bee:
+      description: Doku kommt noch auf der HP.
+      usage: /bee help
